@@ -1,0 +1,16 @@
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\solutionForProb2.exe
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\solutionForProb2.deps.json
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\solutionForProb2.runtimeconfig.json
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\solutionForProb2.runtimeconfig.dev.json
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\solutionForProb2.dll
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\ref\solutionForProb2.dll
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\bin\Debug\net5.0\solutionForProb2.pdb
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.csproj.AssemblyReference.cache
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.AssemblyInfoInputs.cache
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.AssemblyInfo.cs
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.csproj.CoreCompileInputs.cache
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.dll
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\ref\solutionForProb2.dll
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.pdb
+C:\Users\shifa\source\repos\oscilloSoftTest\solutionForProb2\obj\Debug\net5.0\solutionForProb2.genruntimeconfig.cache

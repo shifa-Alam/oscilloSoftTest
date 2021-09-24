@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6y49Ld5VV0ooT0LloemUwUGTVXkRXgPc9wanTDwWK2OneOpNQmk3YCTuGIvUefGIduV3+1uc4nfLRf2fTdKQdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shifa\\source\\repos\\oscilloSoftTest\\solutionForProb2\\solutionForProb2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shifa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shifa\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\shifa\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\shifa\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
